@@ -43,7 +43,7 @@ activities = {
     # Artistic
     "Art Club": {
         "description": " Explore painting, drawing, and other visual arts.",
-        "schedule": "Mondays, 3:30 PM - 5:00 PM",
+        "schedule": " Mondays, 3:30 PM - 5:00 PM",
         "max_participants": 18,
         "participants": []
     },
